@@ -1,0 +1,25 @@
+{
+  "name": "testarena",
+  "version": "0.1.0",
+  "description": "TestArena Demo tests automation",
+  "main": "conf.js",
+  "scripts": {
+    "test": "node node_modules/protractor/bin/protractor ./specs/conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adyrdek/test-automation-projects.git"
+  },
+  "author": "Adam Dyrdek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adyrdek/test-automation-projects/issues"
+  },
+  "homepage": "https://github.com/adyrdek/test-automation-projects#readme",
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "jasmine-spec-reporter": "^4.2.1",
+    "madge": "^3.4.4",
+    "protractor": "^5.4.2"
+  }
+}
