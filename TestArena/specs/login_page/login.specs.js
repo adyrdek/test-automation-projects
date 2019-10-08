@@ -1,6 +1,6 @@
 "use strict"
 
-const LoginPage = require("../../pages/test_arena/login.pageObject")
+const LoginPage = require("../../pages/test_arena/login-page.pageObject")
 
 describe("Happy Path tests", () => {
     var loginPage = new LoginPage();
