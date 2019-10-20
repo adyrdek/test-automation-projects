@@ -1,0 +1,16 @@
+{
+  "name": "automation-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "automation-practice.conf.js",
+  "scripts": {
+    "test": "node node_modules/protractor/bin/protractor automation-practice.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor": "^5.4.2"
+  }
+}
