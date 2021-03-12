@@ -19,7 +19,7 @@
   "devDependencies": {
     "faker": "^4.1.0",
     "jasmine-spec-reporter": "^4.2.1",
-    "madge": "^3.4.4",
+    "madge": "^4.0.1",
     "protractor": "^5.4.2"
   }
 }
